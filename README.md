@@ -55,13 +55,13 @@ Use each function multiple times and print result
 [Solution](./solution_function.py)
 
 ## Fizz Buzz Challenge
-Define a function called *fizz_buzz* that has one integer parameter. It should:
-* Return *Fizz* when the integer is a multiple of *3*
-* Return *Buzz* when the integer is a multiple of *5*
-* Return *FizzBuzz* when integer is a multiple of *both 3 and 5*
+Define a function called **fizz_buzz** that has one integer parameter. It should:
+* Return **Fizz** when the integer is a multiple of **3**
+* Return **Buzz** when the integer is a multiple of **5**
+* Return **FizzBuzz** when integer is a multiple of **both 3 and 5**
 * Return the integer without any modification in all other cases
 
-Write a function called *challenge* that will call the *fizz_buzz* function for all integers from 1 to 100 and print the result of each time
+Write a function called **challenge** that will call the **fizz_buzz** function for all integers from 1 to 100 and print the result of each time
 
 [Solution](./fizz_buzz_challenge.py)
 [Tests](./fizz_buzz_challenge_test.py)
