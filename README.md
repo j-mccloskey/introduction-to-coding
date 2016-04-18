@@ -64,6 +64,7 @@ Define a function called **fizz_buzz** that has one integer parameter. It should
 Write a function called **challenge** that will call the **fizz_buzz** function for all integers from 1 to 100 and print the result of each time
 
 [Solution](./fizz_buzz_challenge.py)
+
 [Tests](./fizz_buzz_challenge_test.py)
 
 ## Rock, Paper, Scissors Game
