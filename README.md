@@ -75,12 +75,3 @@ Write a function called **challenge** that will call the **fizz_buzz** function 
 * Print the result  (Win/Lose/Draw)
 
 [Solution](./RPS_basic.py)
-
-## Rock, Paper, Scissors Game - Extra features
-Ask the player if they want to play again.
-Print the score at the end of the game session (W/D/L record)
-
-[Solution](./RPS_with_scores.py)
-
-
-
