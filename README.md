@@ -75,3 +75,12 @@ Write a function called **challenge** that will call the **fizz_buzz** function 
 * Print the result  (Win/Lose/Draw)
 
 [Solution](./RPS_basic.py)
+
+
+## Lists of Lists
+* Write a program that displays the vending machine to a user
+* Prompt them for the co-ordinates of their selection
+* Print the name of the item they pick
+
+[Solution](./lists.py)
+
