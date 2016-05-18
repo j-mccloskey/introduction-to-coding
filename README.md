@@ -82,5 +82,5 @@ Write a function called **challenge** that will call the **fizz_buzz** function 
 * Prompt them for the co-ordinates of their selection
 * Print the name of the item they pick
 
-[Solution](./lists.py)
+[Solution](./solution_lists.py)
 
