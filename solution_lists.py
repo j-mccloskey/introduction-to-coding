@@ -20,3 +20,4 @@ def offer_vending():
     print "You picked: %s" % vending_machine[r][c]
 
 
+offer_vending()
