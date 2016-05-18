@@ -52,7 +52,7 @@ Create a functions to:
 
 Use each function multiple times and print result
 
-[Solution](./solution_function.py)
+[Solution](./solution_functions.py)
 
 ## Fizz Buzz Challenge
 Define a function called **fizz_buzz** that has one integer parameter. It should:
