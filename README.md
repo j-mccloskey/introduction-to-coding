@@ -90,3 +90,9 @@ Print the score at the end of the game session (W/D/L record)
 
 [Solution](./solution_lists.py)
 
+## Dictionaries
+* Write a program where users can input the name of a movie
+* Output the names of the main actors for that movie
+* Handle scenario where movie is not known
+
+[Solution](./solution_dictionaries.py)
